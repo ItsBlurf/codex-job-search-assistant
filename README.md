@@ -8,10 +8,6 @@ A Codex-native job application workspace for building a grounded candidate profi
 
 This version is built for OpenAI Codex with `AGENTS.md`, Codex skills, explicit validation tools, and clear fallback behavior.
 
-## Credits
-
-This project is adapted from the [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) project.
-
 ## What It Does
 
 - Builds a candidate profile from CVs, LinkedIn exports, diplomas, references, notes, and past applications.
