@@ -6,7 +6,7 @@
 
 A Codex-native job application workspace for building a grounded candidate profile, finding and ranking jobs, producing tailored CVs and cover letters, compiling PDFs, checking ATS text extraction, and tracking application outcomes.
 
-This project is adapted from the MIT-licensed [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) project. The original is built for Claude Code slash commands. This version is built for OpenAI Codex with `AGENTS.md`, Codex skills, explicit validation tools, and clear fallback behavior.
+This project is adapted from the [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) project. The original is built for Claude Code slash commands. This version is built for OpenAI Codex with `AGENTS.md`, Codex skills, explicit validation tools, and clear fallback behavior.
 
 ## What It Does
 
