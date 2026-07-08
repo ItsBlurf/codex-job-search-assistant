@@ -108,7 +108,6 @@ codex-job-search-assistant/
   AGENTS.md
   README.md
   SETUP.md
-  QUALITY_COMPARISON.md
   assets/
   .agents/skills/
   profile/
@@ -227,10 +226,6 @@ Do not commit CVs, diplomas, passports, references, private notes, generated app
 - Missing salary data: salary benchmarking is optional and skipped.
 
 See [SETUP.md](SETUP.md) for Windows, macOS, Linux, and Windows LTSC setup notes.
-
-## Quality Standard
-
-See [QUALITY_COMPARISON.md](QUALITY_COMPARISON.md) for the original-to-Codex workflow comparison and the validation bar used for this repo.
 
 ## License
 

@@ -31,7 +31,6 @@ REQUIRED_FILES = [
     "AGENTS.md",
     "README.md",
     "SETUP.md",
-    "QUALITY_COMPARISON.md",
     "LICENSE",
     ".gitignore",
     "assets/codex-job-search-icon.svg",
@@ -155,7 +154,7 @@ def assert_no_required_claude_dependency() -> None:
         raise CheckFailure(".claude directory must not exist in the Codex-native repo")
 
     forbidden: list[str] = []
-    allowed_files = {"QUALITY_COMPARISON.md", "validate_repo.py"}
+    allowed_files = {"validate_repo.py"}
     for path in ROOT.rglob("*"):
         if path.is_dir() or ".git" in path.parts or "node_modules" in path.parts:
             continue
