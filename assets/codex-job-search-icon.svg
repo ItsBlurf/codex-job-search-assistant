@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Codex Job Search Assistant icon</title>
+  <desc id="desc">A briefcase with a document and verification mark, representing grounded job applications.</desc>
+  <rect width="256" height="256" rx="48" fill="#111827"/>
+  <path d="M78 82c0-14 11-25 25-25h50c14 0 25 11 25 25v12h17c16 0 29 13 29 29v58c0 16-13 29-29 29H61c-16 0-29-13-29-29v-58c0-16 13-29 29-29h17V82zm24 12h52V82c0-1-1-3-3-3h-46c-2 0-3 2-3 3v12z" fill="#E5E7EB"/>
+  <path d="M32 132h192v24c-20 10-53 17-96 17s-76-7-96-17v-24z" fill="#38BDF8"/>
+  <path d="M112 121h32c5 0 9 4 9 9v28c0 5-4 9-9 9h-32c-5 0-9-4-9-9v-28c0-5 4-9 9-9z" fill="#111827"/>
+  <path d="M82 185h92" stroke="#111827" stroke-width="12" stroke-linecap="round"/>
+  <path d="M68 53h45" stroke="#38BDF8" stroke-width="12" stroke-linecap="round"/>
+  <path d="M68 33h73" stroke="#F9FAFB" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="190" cy="67" r="36" fill="#22C55E"/>
+  <path d="M172 66l13 13 25-27" fill="none" stroke="#052E16" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

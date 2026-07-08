@@ -1,0 +1,51 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Node/Bun
+node_modules/
+bun.lockb
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Private candidate documents and generated applications
+documents/cv/*
+documents/linkedin/*
+documents/diplomas/*
+documents/references/*
+documents/applications/**
+!documents/**/.gitkeep
+!documents/README.md
+
+# Generated outputs
+cv/*.pdf
+cover_letters/*.pdf
+job_scraper/results/*
+!job_scraper/results/.gitkeep
+upskill/report-*.md
+
+# Optional local data
+salary_data.json
+*.xlsx
+*.xls
+*.csv.bak
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
